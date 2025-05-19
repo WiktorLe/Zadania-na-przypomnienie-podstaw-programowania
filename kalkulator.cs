@@ -37,6 +37,5 @@ class Program
         }
 
         Console.WriteLine("Wynik: " + result);
-        // Automatyczne zakończenie
     }
 }
